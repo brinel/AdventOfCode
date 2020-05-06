@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82610036-3790-4266-bbdb-e0b09259f1de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a31k5XRnzJu3LvgbgeYBDUWYUl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day_3.1.py" />
+  </component>
+  <component name="RunManager">
+    <configuration name="day_3.1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="day3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_3.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82610036-3790-4266-bbdb-e0b09259f1de" name="Default Changelist" comment="" />
+      <created>1585949602068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585949602068</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="59" width="800" height="684" key="#Notifications" timestamp="1585956265433">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="59" width="800" height="684" key="#Notifications/0.27.1366.741@0.27.1366.741" timestamp="1585956265433" />
+    <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586391765023">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1586391765023" />
+    <state x="466" y="105" width="424" height="591" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1585953849782">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="105" width="424" height="591" key="#com.intellij.ide.macro.MacrosDialog/0.27.1366.741@0.27.1366.741" timestamp="1585953849782" />
+    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1585953839661">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1585953839661" />
+    <state width="1366" height="224" key="GridCell.Tab.0.bottom" timestamp="1586399058044">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1366" height="224" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1586399058044" />
+    <state width="1366" height="224" key="GridCell.Tab.0.center" timestamp="1586399058043">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1366" height="224" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1586399058043" />
+    <state width="1366" height="224" key="GridCell.Tab.0.left" timestamp="1586399058043">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1366" height="224" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1586399058043" />
+    <state width="1366" height="224" key="GridCell.Tab.0.right" timestamp="1586399058044">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1366" height="224" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1586399058044" />
+    <state width="1366" height="224" key="GridCell.Tab.1.bottom" timestamp="1586399058045">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1366" height="224" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1586399058045" />
+    <state width="1366" height="224" key="GridCell.Tab.1.center" timestamp="1586399058045">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1366" height="224" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1586399058045" />
+    <state width="1366" height="224" key="GridCell.Tab.1.left" timestamp="1586399058044">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1366" height="224" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1586399058044" />
+    <state width="1366" height="224" key="GridCell.Tab.1.right" timestamp="1586399058045">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1366" height="224" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1586399058045" />
+    <state x="343" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1586391708719">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="343" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1586391708719" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1585954903787">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.27.1366.741@0.27.1366.741" timestamp="1585954903787" />
+    <state x="346" y="89" key="search.everywhere.popup" timestamp="1586391713925">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1586391713925" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
